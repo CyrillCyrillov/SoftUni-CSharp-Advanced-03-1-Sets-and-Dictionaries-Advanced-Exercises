@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\bin\Debug\netcoreapp3.1\Task04_Even_Times.exe
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\bin\Debug\netcoreapp3.1\Task04_Even_Times.deps.json
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\bin\Debug\netcoreapp3.1\Task04_Even_Times.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\bin\Debug\netcoreapp3.1\Task04_Even_Times.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\bin\Debug\netcoreapp3.1\Task04_Even_Times.dll
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\bin\Debug\netcoreapp3.1\Task04_Even_Times.pdb
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.dll
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.pdb
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task04_Even Times\obj\Debug\netcoreapp3.1\Task04_Even_Times.genruntimeconfig.cache
