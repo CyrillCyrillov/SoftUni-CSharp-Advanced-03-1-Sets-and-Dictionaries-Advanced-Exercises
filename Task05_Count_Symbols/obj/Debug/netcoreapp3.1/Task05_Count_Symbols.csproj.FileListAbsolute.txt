@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\bin\Debug\netcoreapp3.1\Task05_Count_Symbols.exe
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\bin\Debug\netcoreapp3.1\Task05_Count_Symbols.deps.json
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\bin\Debug\netcoreapp3.1\Task05_Count_Symbols.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\bin\Debug\netcoreapp3.1\Task05_Count_Symbols.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\bin\Debug\netcoreapp3.1\Task05_Count_Symbols.dll
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\bin\Debug\netcoreapp3.1\Task05_Count_Symbols.pdb
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.dll
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.pdb
+C:\Users\Kiril\Advanced_CSharp\03-Sets-and-Dictionaries-Advanced-Exercise\Task05_Count_Symbols\obj\Debug\netcoreapp3.1\Task05_Count_Symbols.genruntimeconfig.cache
